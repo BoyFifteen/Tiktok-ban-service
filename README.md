@@ -1,7 +1,7 @@
 # Tiktok-ban-service
 Are you being bullied or someone is harassing you or impersonating you, etc.? 
 -- We have the solution: 
-- Permanent ban service 
+- Permanent ban service
 - Fast and secure service 
 - ban (live/video/account)
 - with guarantee
